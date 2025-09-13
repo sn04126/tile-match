@@ -1,0 +1,258 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\tilematch_New\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C4F3C3C5-3143-410D-211B-4E6A141FA9DF}|Assembly-CSharp.csproj|d:\\tilematch_new\\assets\\scripts\\preloadscenmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4F3C3C5-3143-410D-211B-4E6A141FA9DF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\preloadscenmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4F3C3C5-3143-410D-211B-4E6A141FA9DF}|Assembly-CSharp.csproj|d:\\tilematch_new\\assets\\scripts\\musicmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4F3C3C5-3143-410D-211B-4E6A141FA9DF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\musicmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4F3C3C5-3143-410D-211B-4E6A141FA9DF}|Assembly-CSharp.csproj|d:\\tilematch_new\\assets\\scripts\\bbcommon\\bbcanvasscaler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4F3C3C5-3143-410D-211B-4E6A141FA9DF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\bbcommon\\bbcanvasscaler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4F3C3C5-3143-410D-211B-4E6A141FA9DF}|Assembly-CSharp.csproj|D:\\tilematch_New\\assets\\simple scroll-snap\\examples\\example 5 (dynamic content)\\scripts\\dynamiccontent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4F3C3C5-3143-410D-211B-4E6A141FA9DF}|Assembly-CSharp.csproj|solutionrelative:assets\\simple scroll-snap\\examples\\example 5 (dynamic content)\\scripts\\dynamiccontent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4F3C3C5-3143-410D-211B-4E6A141FA9DF}|Assembly-CSharp.csproj|d:\\tilematch_new\\assets\\scripts\\settingpopup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4F3C3C5-3143-410D-211B-4E6A141FA9DF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\settingpopup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4F3C3C5-3143-410D-211B-4E6A141FA9DF}|Assembly-CSharp.csproj|D:\\tilematch_New\\assets\\scripts\\new\\pausepopup2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4F3C3C5-3143-410D-211B-4E6A141FA9DF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\new\\pausepopup2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4F3C3C5-3143-410D-211B-4E6A141FA9DF}|Assembly-CSharp.csproj|d:\\tilematch_new\\assets\\scripts\\menu_coingroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4F3C3C5-3143-410D-211B-4E6A141FA9DF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\menu_coingroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4F3C3C5-3143-410D-211B-4E6A141FA9DF}|Assembly-CSharp.csproj|D:\\tilematch_New\\assets\\scripts\\menumanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4F3C3C5-3143-410D-211B-4E6A141FA9DF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\menumanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4F3C3C5-3143-410D-211B-4E6A141FA9DF}|Assembly-CSharp.csproj|D:\\tilematch_New\\assets\\scripts\\gamelevelmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4F3C3C5-3143-410D-211B-4E6A141FA9DF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamelevelmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4F3C3C5-3143-410D-211B-4E6A141FA9DF}|Assembly-CSharp.csproj|D:\\tilematch_New\\assets\\scripts\\gameplaymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4F3C3C5-3143-410D-211B-4E6A141FA9DF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gameplaymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4F3C3C5-3143-410D-211B-4E6A141FA9DF}|Assembly-CSharp.csproj|D:\\tilematch_New\\assets\\scripts\\itemtile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4F3C3C5-3143-410D-211B-4E6A141FA9DF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\itemtile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4F3C3C5-3143-410D-211B-4E6A141FA9DF}|Assembly-CSharp.csproj|D:\\tilematch_New\\assets\\scripts\\losepopup2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4F3C3C5-3143-410D-211B-4E6A141FA9DF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\losepopup2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4F3C3C5-3143-410D-211B-4E6A141FA9DF}|Assembly-CSharp.csproj|D:\\tilematch_New\\assets\\scripts\\changetheme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4F3C3C5-3143-410D-211B-4E6A141FA9DF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\changetheme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4F3C3C5-3143-410D-211B-4E6A141FA9DF}|Assembly-CSharp.csproj|D:\\tilematch_New\\assets\\scripts\\stargroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4F3C3C5-3143-410D-211B-4E6A141FA9DF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\stargroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PreLoadScenManager.cs",
+              "DocumentMoniker": "D:\\tilematch_New\\Assets\\Scripts\\PreLoadScenManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PreLoadScenManager.cs",
+              "ToolTip": "D:\\tilematch_New\\Assets\\Scripts\\PreLoadScenManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PreLoadScenManager.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAowCwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T12:48:28.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BBCanvasScaler.cs",
+              "DocumentMoniker": "D:\\tilematch_New\\Assets\\Scripts\\BBCommon\\BBCanvasScaler.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\BBCommon\\BBCanvasScaler.cs",
+              "ToolTip": "D:\\tilematch_New\\Assets\\Scripts\\BBCommon\\BBCanvasScaler.cs",
+              "RelativeToolTip": "Assets\\Scripts\\BBCommon\\BBCanvasScaler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T12:47:30.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MusicManager.cs",
+              "DocumentMoniker": "D:\\tilematch_New\\Assets\\Scripts\\MusicManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MusicManager.cs",
+              "ToolTip": "D:\\tilematch_New\\Assets\\Scripts\\MusicManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MusicManager.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAhwCUAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T09:57:00.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SettingPopup.cs",
+              "DocumentMoniker": "D:\\tilematch_New\\Assets\\Scripts\\SettingPopup.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SettingPopup.cs",
+              "ToolTip": "D:\\tilematch_New\\Assets\\Scripts\\SettingPopup.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SettingPopup.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAwwD0AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T09:53:52.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Menu_CoinGroup.cs",
+              "DocumentMoniker": "D:\\tilematch_New\\Assets\\Scripts\\Menu_CoinGroup.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Menu_CoinGroup.cs",
+              "ToolTip": "D:\\tilematch_New\\Assets\\Scripts\\Menu_CoinGroup.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Menu_CoinGroup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T09:05:58.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "StarGroup.cs",
+              "DocumentMoniker": "D:\\tilematch_New\\Assets\\Scripts\\StarGroup.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\StarGroup.cs",
+              "ToolTip": "D:\\tilematch_New\\Assets\\Scripts\\StarGroup.cs",
+              "RelativeToolTip": "Assets\\Scripts\\StarGroup.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAWwEMAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T10:24:12.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PausePopup2.cs",
+              "DocumentMoniker": "D:\\tilematch_New\\Assets\\Scripts\\New\\PausePopup2.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\New\\PausePopup2.cs",
+              "ToolTip": "D:\\tilematch_New\\Assets\\Scripts\\New\\PausePopup2.cs",
+              "RelativeToolTip": "Assets\\Scripts\\New\\PausePopup2.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAiwE0AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T10:17:48.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DynamicContent.cs",
+              "DocumentMoniker": "D:\\tilematch_New\\Assets\\Simple Scroll-Snap\\Examples\\Example 5 (Dynamic Content)\\Scripts\\DynamicContent.cs",
+              "RelativeDocumentMoniker": "Assets\\Simple Scroll-Snap\\Examples\\Example 5 (Dynamic Content)\\Scripts\\DynamicContent.cs",
+              "ToolTip": "D:\\tilematch_New\\Assets\\Simple Scroll-Snap\\Examples\\Example 5 (Dynamic Content)\\Scripts\\DynamicContent.cs",
+              "RelativeToolTip": "Assets\\Simple Scroll-Snap\\Examples\\Example 5 (Dynamic Content)\\Scripts\\DynamicContent.cs",
+              "ViewState": "AgIAAIMAAAAAAAAAAAAUwJMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T10:02:22.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ChangeTheme.cs",
+              "DocumentMoniker": "D:\\tilematch_New\\Assets\\Scripts\\ChangeTheme.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ChangeTheme.cs",
+              "ToolTip": "D:\\tilematch_New\\Assets\\Scripts\\ChangeTheme.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ChangeTheme.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T10:02:07.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LosePopup2.cs",
+              "DocumentMoniker": "D:\\tilematch_New\\Assets\\Scripts\\LosePopup2.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\LosePopup2.cs",
+              "ToolTip": "D:\\tilematch_New\\Assets\\Scripts\\LosePopup2.cs",
+              "RelativeToolTip": "Assets\\Scripts\\LosePopup2.cs",
+              "ViewState": "AgIAAHQAAAAAAAAAAAAuwHcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T11:07:47.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ItemTile.cs",
+              "DocumentMoniker": "D:\\tilematch_New\\Assets\\Scripts\\ItemTile.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ItemTile.cs",
+              "ToolTip": "D:\\tilematch_New\\Assets\\Scripts\\ItemTile.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ItemTile.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAADwvzwAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T11:06:23.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GamePlayManager.cs",
+              "DocumentMoniker": "D:\\tilematch_New\\Assets\\Scripts\\GamePlayManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GamePlayManager.cs",
+              "ToolTip": "D:\\tilematch_New\\Assets\\Scripts\\GamePlayManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GamePlayManager.cs",
+              "ViewState": "AgIAAKIBAAAAAAAAAADwv9IBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T05:19:53.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GameLevelManager.cs",
+              "DocumentMoniker": "D:\\tilematch_New\\Assets\\Scripts\\GameLevelManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameLevelManager.cs",
+              "ToolTip": "D:\\tilematch_New\\Assets\\Scripts\\GameLevelManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameLevelManager.cs",
+              "ViewState": "AgIAAAEBAAAAAAAAAADwvy8BAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T05:19:11.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MenuManager.cs",
+              "DocumentMoniker": "D:\\tilematch_New\\Assets\\Scripts\\MenuManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MenuManager.cs",
+              "ToolTip": "D:\\tilematch_New\\Assets\\Scripts\\MenuManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MenuManager.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAMwAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T04:54:12.141Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

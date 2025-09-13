@@ -1,0 +1,30 @@
+
+=== Sun Oct 30 14:49:11 2022
+
+Packages were changed.
+Update Mode: updateDependencies
+
+The following packages were updated:
+  com.unity.collab-proxy from version 1.15.12 to 1.17.2
+  com.unity.ide.visualstudio from version 2.0.14 to 2.0.16
+  com.unity.timeline from version 1.4.8 to 1.6.4
+
+=== Thu Oct  5 15:01:51 2023
+
+Packages were changed.
+Update Mode: updateDependencies
+
+The following packages were updated:
+  com.unity.purchasing from version 4.5.1 to 4.7.0
+
+=== Thu Sep 26 09:45:39 2024
+
+Packages were changed.
+Update Mode: updateDependencies
+
+The following packages were added:
+  com.unity.ai.navigation@1.1.5
+The following packages were updated:
+  com.unity.ide.visualstudio from version 2.0.21 to 2.0.22
+  com.unity.purchasing from version 4.9.4 to 4.11.0
+  com.unity.timeline from version 1.6.4 to 1.7.6

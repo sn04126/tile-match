@@ -1,0 +1,427 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\TilesProject_Old\\tilematch\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3D89CDEF-58DD-0D58-CD41-A6CEDAEC8BD8}|Assembly-CSharp.csproj|d:\\tilesproject_old\\tilematch\\assets\\scripts\\winpopup2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D89CDEF-58DD-0D58-CD41-A6CEDAEC8BD8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\winpopup2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D89CDEF-58DD-0D58-CD41-A6CEDAEC8BD8}|Assembly-CSharp.csproj|d:\\tilesproject_old\\tilematch\\assets\\scripts\\rewardpopup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D89CDEF-58DD-0D58-CD41-A6CEDAEC8BD8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\rewardpopup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D89CDEF-58DD-0D58-CD41-A6CEDAEC8BD8}|Assembly-CSharp.csproj|D:\\TilesProject_Old\\tilematch\\assets\\scripts\\losepopup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D89CDEF-58DD-0D58-CD41-A6CEDAEC8BD8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\losepopup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D89CDEF-58DD-0D58-CD41-A6CEDAEC8BD8}|Assembly-CSharp.csproj|d:\\tilesproject_old\\tilematch\\assets\\scripts\\spinpopup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D89CDEF-58DD-0D58-CD41-A6CEDAEC8BD8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\spinpopup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D89CDEF-58DD-0D58-CD41-A6CEDAEC8BD8}|Assembly-CSharp.csproj|D:\\TilesProject_Old\\tilematch\\assets\\scripts\\winpopup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D89CDEF-58DD-0D58-CD41-A6CEDAEC8BD8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\winpopup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D89CDEF-58DD-0D58-CD41-A6CEDAEC8BD8}|Assembly-CSharp.csproj|d:\\tilesproject_old\\tilematch\\assets\\scripts\\pausepopup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D89CDEF-58DD-0D58-CD41-A6CEDAEC8BD8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\pausepopup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D89CDEF-58DD-0D58-CD41-A6CEDAEC8BD8}|Assembly-CSharp.csproj|D:\\TilesProject_Old\\tilematch\\assets\\scripts\\new\\pausepopup2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D89CDEF-58DD-0D58-CD41-A6CEDAEC8BD8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\new\\pausepopup2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D89CDEF-58DD-0D58-CD41-A6CEDAEC8BD8}|Assembly-CSharp.csproj|D:\\TilesProject_Old\\tilematch\\assets\\scripts\\losepopup2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D89CDEF-58DD-0D58-CD41-A6CEDAEC8BD8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\losepopup2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D89CDEF-58DD-0D58-CD41-A6CEDAEC8BD8}|Assembly-CSharp.csproj|D:\\TilesProject_Old\\tilematch\\assets\\scripts\\levelpopup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D89CDEF-58DD-0D58-CD41-A6CEDAEC8BD8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\levelpopup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D89CDEF-58DD-0D58-CD41-A6CEDAEC8BD8}|Assembly-CSharp.csproj|D:\\TilesProject_Old\\tilematch\\assets\\scripts\\itemshop_videocoin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D89CDEF-58DD-0D58-CD41-A6CEDAEC8BD8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\itemshop_videocoin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D89CDEF-58DD-0D58-CD41-A6CEDAEC8BD8}|Assembly-CSharp.csproj|D:\\TilesProject_Old\\tilematch\\assets\\scripts\\chestpopup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D89CDEF-58DD-0D58-CD41-A6CEDAEC8BD8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\chestpopup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D89CDEF-58DD-0D58-CD41-A6CEDAEC8BD8}|Assembly-CSharp.csproj|D:\\TilesProject_Old\\tilematch\\assets\\scripts\\freeitempopup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D89CDEF-58DD-0D58-CD41-A6CEDAEC8BD8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\freeitempopup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D89CDEF-58DD-0D58-CD41-A6CEDAEC8BD8}|Assembly-CSharp.csproj|D:\\TilesProject_Old\\tilematch\\assets\\scripts\\buyitempopup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D89CDEF-58DD-0D58-CD41-A6CEDAEC8BD8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\buyitempopup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D89CDEF-58DD-0D58-CD41-A6CEDAEC8BD8}|Assembly-CSharp.csproj|D:\\TilesProject_Old\\tilematch\\assets\\scripts\\menu_coingroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D89CDEF-58DD-0D58-CD41-A6CEDAEC8BD8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\menu_coingroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D89CDEF-58DD-0D58-CD41-A6CEDAEC8BD8}|Assembly-CSharp.csproj|D:\\TilesProject_Old\\tilematch\\assets\\scripts\\menumanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D89CDEF-58DD-0D58-CD41-A6CEDAEC8BD8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\menumanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D89CDEF-58DD-0D58-CD41-A6CEDAEC8BD8}|Assembly-CSharp.csproj|D:\\TilesProject_Old\\tilematch\\assets\\scripts\\settingpopup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D89CDEF-58DD-0D58-CD41-A6CEDAEC8BD8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\settingpopup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D89CDEF-58DD-0D58-CD41-A6CEDAEC8BD8}|Assembly-CSharp.csproj|D:\\TilesProject_Old\\tilematch\\assets\\scripts\\gameplaymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D89CDEF-58DD-0D58-CD41-A6CEDAEC8BD8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gameplaymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E68DDE8F-265A-D666-10A2-B1B880205E55}|Assembly-CSharp-Editor.csproj|D:\\TilesProject_Old\\tilematch\\assets\\editor\\prefabstools.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E68DDE8F-265A-D666-10A2-B1B880205E55}|Assembly-CSharp-Editor.csproj|solutionrelative:assets\\editor\\prefabstools.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D89CDEF-58DD-0D58-CD41-A6CEDAEC8BD8}|Assembly-CSharp.csproj|D:\\TilesProject_Old\\tilematch\\assets\\scripts\\bbcommon\\bbcanvasscaler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D89CDEF-58DD-0D58-CD41-A6CEDAEC8BD8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\bbcommon\\bbcanvasscaler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D89CDEF-58DD-0D58-CD41-A6CEDAEC8BD8}|Assembly-CSharp.csproj|D:\\TilesProject_Old\\tilematch\\assets\\scripts\\config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D89CDEF-58DD-0D58-CD41-A6CEDAEC8BD8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D89CDEF-58DD-0D58-CD41-A6CEDAEC8BD8}|Assembly-CSharp.csproj|D:\\TilesProject_Old\\tilematch\\assets\\doozy\\bb\\bbuibutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D89CDEF-58DD-0D58-CD41-A6CEDAEC8BD8}|Assembly-CSharp.csproj|solutionrelative:assets\\doozy\\bb\\bbuibutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D89CDEF-58DD-0D58-CD41-A6CEDAEC8BD8}|Assembly-CSharp.csproj|D:\\TilesProject_Old\\tilematch\\assets\\scripts\\startpackpopup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D89CDEF-58DD-0D58-CD41-A6CEDAEC8BD8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\startpackpopup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D89CDEF-58DD-0D58-CD41-A6CEDAEC8BD8}|Assembly-CSharp.csproj|D:\\TilesProject_Old\\tilematch\\assets\\scripts\\preloadscenmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D89CDEF-58DD-0D58-CD41-A6CEDAEC8BD8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\preloadscenmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D89CDEF-58DD-0D58-CD41-A6CEDAEC8BD8}|Assembly-CSharp.csproj|D:\\TilesProject_Old\\tilematch\\assets\\scripts\\gamelevelmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D89CDEF-58DD-0D58-CD41-A6CEDAEC8BD8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamelevelmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D89CDEF-58DD-0D58-CD41-A6CEDAEC8BD8}|Assembly-CSharp.csproj|D:\\TilesProject_Old\\tilematch\\assets\\scripts\\musicmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D89CDEF-58DD-0D58-CD41-A6CEDAEC8BD8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\musicmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WinPopup2.cs",
+              "DocumentMoniker": "D:\\TilesProject_Old\\tilematch\\Assets\\Scripts\\WinPopup2.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\WinPopup2.cs",
+              "ToolTip": "D:\\TilesProject_Old\\tilematch\\Assets\\Scripts\\WinPopup2.cs",
+              "RelativeToolTip": "Assets\\Scripts\\WinPopup2.cs",
+              "ViewState": "AgIAAPwAAAAAAAAAAADgvyUBAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T12:24:16.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RewardPopup.cs",
+              "DocumentMoniker": "D:\\TilesProject_Old\\tilematch\\Assets\\Scripts\\RewardPopup.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\RewardPopup.cs",
+              "ToolTip": "D:\\TilesProject_Old\\tilematch\\Assets\\Scripts\\RewardPopup.cs",
+              "RelativeToolTip": "Assets\\Scripts\\RewardPopup.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAADgv1sAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T12:24:04.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SpinPopup.cs",
+              "DocumentMoniker": "D:\\TilesProject_Old\\tilematch\\Assets\\Scripts\\SpinPopup.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SpinPopup.cs",
+              "ToolTip": "D:\\TilesProject_Old\\tilematch\\Assets\\Scripts\\SpinPopup.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SpinPopup.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAADgv2gAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T12:23:28.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ChestPopup.cs",
+              "DocumentMoniker": "D:\\TilesProject_Old\\tilematch\\Assets\\Scripts\\ChestPopup.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ChestPopup.cs",
+              "ToolTip": "D:\\TilesProject_Old\\tilematch\\Assets\\Scripts\\ChestPopup.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ChestPopup.cs",
+              "ViewState": "AgIAAI8AAAAAAAAAAAArwKwAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T12:19:02.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BuyItemPopup.cs",
+              "DocumentMoniker": "D:\\TilesProject_Old\\tilematch\\Assets\\Scripts\\BuyItemPopup.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\BuyItemPopup.cs",
+              "ToolTip": "D:\\TilesProject_Old\\tilematch\\Assets\\Scripts\\BuyItemPopup.cs",
+              "RelativeToolTip": "Assets\\Scripts\\BuyItemPopup.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAADgv2sAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T12:18:23.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Menu_CoinGroup.cs",
+              "DocumentMoniker": "D:\\TilesProject_Old\\tilematch\\Assets\\Scripts\\Menu_CoinGroup.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Menu_CoinGroup.cs",
+              "ToolTip": "D:\\TilesProject_Old\\tilematch\\Assets\\Scripts\\Menu_CoinGroup.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Menu_CoinGroup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T12:06:13.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "StartPackPopup.cs",
+              "DocumentMoniker": "D:\\TilesProject_Old\\tilematch\\Assets\\Scripts\\StartPackPopup.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\StartPackPopup.cs",
+              "ToolTip": "D:\\TilesProject_Old\\tilematch\\Assets\\Scripts\\StartPackPopup.cs",
+              "RelativeToolTip": "Assets\\Scripts\\StartPackPopup.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAASwEoAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T07:07:31.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MenuManager.cs",
+              "DocumentMoniker": "D:\\TilesProject_Old\\tilematch\\Assets\\Scripts\\MenuManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MenuManager.cs",
+              "ToolTip": "D:\\TilesProject_Old\\tilematch\\Assets\\Scripts\\MenuManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MenuManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T06:58:32.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "PreLoadScenManager.cs",
+              "DocumentMoniker": "D:\\TilesProject_Old\\tilematch\\Assets\\Scripts\\PreLoadScenManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PreLoadScenManager.cs",
+              "ToolTip": "D:\\TilesProject_Old\\tilematch\\Assets\\Scripts\\PreLoadScenManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PreLoadScenManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T06:53:49.415Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LosePopup.cs",
+              "DocumentMoniker": "D:\\TilesProject_Old\\tilematch\\Assets\\Scripts\\LosePopup.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\LosePopup.cs",
+              "ToolTip": "D:\\TilesProject_Old\\tilematch\\Assets\\Scripts\\LosePopup.cs",
+              "RelativeToolTip": "Assets\\Scripts\\LosePopup.cs",
+              "ViewState": "AgIAAJgAAAAAAAAAAADgv7YAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T06:49:02.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PausePopup.cs",
+              "DocumentMoniker": "D:\\TilesProject_Old\\tilematch\\Assets\\Scripts\\PausePopup.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PausePopup.cs",
+              "ToolTip": "D:\\TilesProject_Old\\tilematch\\Assets\\Scripts\\PausePopup.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PausePopup.cs",
+              "ViewState": "AgIAAHoAAAAAAAAAAAArwJ4AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T06:47:05.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PausePopup2.cs",
+              "DocumentMoniker": "D:\\TilesProject_Old\\tilematch\\Assets\\Scripts\\New\\PausePopup2.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\New\\PausePopup2.cs",
+              "ToolTip": "D:\\TilesProject_Old\\tilematch\\Assets\\Scripts\\New\\PausePopup2.cs",
+              "RelativeToolTip": "Assets\\Scripts\\New\\PausePopup2.cs",
+              "ViewState": "AgIAAIQAAAAAAAAAAADgv6QAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T06:46:41.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LevelPopup.cs",
+              "DocumentMoniker": "D:\\TilesProject_Old\\tilematch\\Assets\\Scripts\\LevelPopup.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\LevelPopup.cs",
+              "ToolTip": "D:\\TilesProject_Old\\tilematch\\Assets\\Scripts\\LevelPopup.cs",
+              "RelativeToolTip": "Assets\\Scripts\\LevelPopup.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAArwFQAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T06:46:15.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FreeItemPopup.cs",
+              "DocumentMoniker": "D:\\TilesProject_Old\\tilematch\\Assets\\Scripts\\FreeItemPopup.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\FreeItemPopup.cs",
+              "ToolTip": "D:\\TilesProject_Old\\tilematch\\Assets\\Scripts\\FreeItemPopup.cs",
+              "RelativeToolTip": "Assets\\Scripts\\FreeItemPopup.cs",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAjwHoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T05:28:43.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LosePopup2.cs",
+              "DocumentMoniker": "D:\\TilesProject_Old\\tilematch\\Assets\\Scripts\\LosePopup2.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\LosePopup2.cs",
+              "ToolTip": "D:\\TilesProject_Old\\tilematch\\Assets\\Scripts\\LosePopup2.cs",
+              "RelativeToolTip": "Assets\\Scripts\\LosePopup2.cs",
+              "ViewState": "AgIAAKcAAAAAAAAAAAASwM4AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T05:39:11.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WinPopup.cs",
+              "DocumentMoniker": "D:\\TilesProject_Old\\tilematch\\Assets\\Scripts\\WinPopup.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\WinPopup.cs",
+              "ToolTip": "D:\\TilesProject_Old\\tilematch\\Assets\\Scripts\\WinPopup.cs",
+              "RelativeToolTip": "Assets\\Scripts\\WinPopup.cs",
+              "ViewState": "AgIAAHQAAAAAAAAAAADgv54AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T05:23:23.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ItemShop_VideoCoin.cs",
+              "DocumentMoniker": "D:\\TilesProject_Old\\tilematch\\Assets\\Scripts\\ItemShop_VideoCoin.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ItemShop_VideoCoin.cs",
+              "ToolTip": "D:\\TilesProject_Old\\tilematch\\Assets\\Scripts\\ItemShop_VideoCoin.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ItemShop_VideoCoin.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAwwEkAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T12:19:39.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "BBUIButton.cs",
+              "DocumentMoniker": "D:\\TilesProject_Old\\tilematch\\Assets\\Doozy\\BB\\BBUIButton.cs",
+              "RelativeDocumentMoniker": "Assets\\Doozy\\BB\\BBUIButton.cs",
+              "ToolTip": "D:\\TilesProject_Old\\tilematch\\Assets\\Doozy\\BB\\BBUIButton.cs",
+              "RelativeToolTip": "Assets\\Doozy\\BB\\BBUIButton.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACgAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T07:31:44.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "SettingPopup.cs",
+              "DocumentMoniker": "D:\\TilesProject_Old\\tilematch\\Assets\\Scripts\\SettingPopup.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SettingPopup.cs",
+              "ToolTip": "D:\\TilesProject_Old\\tilematch\\Assets\\Scripts\\SettingPopup.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SettingPopup.cs",
+              "ViewState": "AgIAAIcAAAAAAAAAAAAvwE8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T07:41:34.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "BBCanvasScaler.cs",
+              "DocumentMoniker": "D:\\TilesProject_Old\\tilematch\\Assets\\Scripts\\BBCommon\\BBCanvasScaler.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\BBCommon\\BBCanvasScaler.cs",
+              "ToolTip": "D:\\TilesProject_Old\\tilematch\\Assets\\Scripts\\BBCommon\\BBCanvasScaler.cs",
+              "RelativeToolTip": "Assets\\Scripts\\BBCommon\\BBCanvasScaler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T09:46:56.446Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Config.cs",
+              "DocumentMoniker": "D:\\TilesProject_Old\\tilematch\\Assets\\Scripts\\Config.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Config.cs",
+              "ToolTip": "D:\\TilesProject_Old\\tilematch\\Assets\\Scripts\\Config.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Config.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAuwGAAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T06:44:11.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "GamePlayManager.cs",
+              "DocumentMoniker": "D:\\TilesProject_Old\\tilematch\\Assets\\Scripts\\GamePlayManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GamePlayManager.cs",
+              "ToolTip": "D:\\TilesProject_Old\\tilematch\\Assets\\Scripts\\GamePlayManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GamePlayManager.cs",
+              "ViewState": "AgIAAI8CAAAAAAAAAADgv7UCAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T05:30:35.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "PrefabsTools.cs",
+              "DocumentMoniker": "D:\\TilesProject_Old\\tilematch\\Assets\\Editor\\PrefabsTools.cs",
+              "RelativeDocumentMoniker": "Assets\\Editor\\PrefabsTools.cs",
+              "ToolTip": "D:\\TilesProject_Old\\tilematch\\Assets\\Editor\\PrefabsTools.cs",
+              "RelativeToolTip": "Assets\\Editor\\PrefabsTools.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAoAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T09:47:59.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "MusicManager.cs",
+              "DocumentMoniker": "D:\\TilesProject_Old\\tilematch\\Assets\\Scripts\\MusicManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MusicManager.cs",
+              "ToolTip": "D:\\TilesProject_Old\\tilematch\\Assets\\Scripts\\MusicManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MusicManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T06:36:52.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "GameLevelManager.cs",
+              "DocumentMoniker": "D:\\TilesProject_Old\\tilematch\\Assets\\Scripts\\GameLevelManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameLevelManager.cs",
+              "ToolTip": "D:\\TilesProject_Old\\tilematch\\Assets\\Scripts\\GameLevelManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameLevelManager.cs",
+              "ViewState": "AgIAAKkCAAAAAAAAAADgv7wCAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T05:22:49.862Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
